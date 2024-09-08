@@ -17,30 +17,30 @@
 ### AI Voice Assistant (Jarvis-Gemini)
 An advanced AI voice assistant powered by Google's Gemini language model. It uses voice recognition, natural language processing, and various APIs to provide a wide range of functionalities.
 
-[View Project](https://github.com/xenioxyt/jarvis-gemini)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenioxyt&repo=jarvis-gemini&theme=merko)](https://github.com/xenioxyt/jarvis-gemini)
 
 ### Personal Website
 A dynamic personal website built with Flask, featuring particle animations, music integration, and a sleek design.
 
-[View Project](https://xeniox.tv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xenioxyt&repo=xeniox.tv&theme=merko)](https://github.com/xenioxyt/xeniox.tv)
 
 ### Discord ChatGPT Bot
 A versatile Discord bot leveraging OpenAI's ChatGPT API, offering natural language conversations, image captioning, code execution, and more.
 
-[View Project](https://github.com/XenioxYT/Discord-OpenAI-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XenioxYT&repo=Discord-OpenAI-Bot&theme=merko)](https://github.com/XenioxYT/Discord-OpenAI-Bot)
 
 ### Instant Messaging App
 An Android messaging app built with Kotlin, featuring predictive replies and Firebase backend integration.
 
-[View Project](https://github.com/XenioxYT/Instant-Messaging-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XenioxYT&repo=Instant-Messaging-App&theme=merko)](https://github.com/XenioxYT/Instant-Messaging-App)
 
 ### Web Scraper with NordVPN
 A Node.js-based web scraper using Puppeteer and NordVPN for secure browsing, exposing an API endpoint for Python clients.
 
-[View Project](https://github.com/XenioxYT/web-scraper-nodejs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XenioxYT&repo=web-scraper-nodejs&theme=merko)](https://github.com/XenioxYT/web-scraper-nodejs)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xenioxyt&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xenioxyt&show_icons=true&theme=merko)
 
 ## Connect with Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/xeniox)
