@@ -1,9 +1,7 @@
 # Hi there, I'm Xeniox 👋
 
 ## About Me
-- 🔭 I'm currently working on AI and web development projects
-- 🌱 I'm always learning new technologies and improving my skills
-- 👯 I'm looking to collaborate on innovative tech projects
+- Developer when I have free time :p
 
 ## My Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
